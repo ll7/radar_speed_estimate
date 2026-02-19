@@ -1,0 +1,5 @@
+Radar velocity estimation demo
+true_velocity=[-2.5, 1.1]
+estimated_from_radial=[-2.5000000000000666, 1.0999999999998433]
+estimated_from_positions=[-2.5, 1.1]
+radial_l2_residual=7.458941e-16
